@@ -50,3 +50,16 @@ Ejercicios de la primera semana.
 4. Hacer commit y push.
 
 [1] [https://jgthms.com/web-design-in-4-minutes](https://jgthms.com/web-design-in-4-minutes)
+
+## 🏋Clase 5 [EJERCICIO]
+
+1. Crear un entorno virtual para Python (python3 -m venv .venv).
+2. Crear un Task Manager por CLI.
+3. Implementar un sistema de persistencia de las tareas.
+4. Instalar el modulos (pip install):
+    1. "google.genai" para integrar servicios de google gemini.
+    2. "dotenv" para el uso de variables de entorno.
+    3. "Requests" para hacer peticiones atraves de http.
+6. Guardar las versiones de los modulos (pip freeze > requirements.txt).
+7. Suministrar la API key en las variables de entorno con el nombre "GEMINI_API_KEY".
+8. Implementar IA para simplificar una tarea compleja en subtareas.

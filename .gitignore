@@ -304,6 +304,11 @@ dist
 # Serverless directories
 .serverless/
 
+# Python
+.venv/
+__pycache__/
+tasks.json
+
 # FuseBox cache
 .fusebox/
 
